@@ -1,0 +1,14 @@
+What is your preferred name?
+  David
+• What are your preferred pronouns (she, he, they, zie, xe, etcetera)?
+  he
+• Why are you taking CS 135?
+to learn more about parsing and representing data
+• Have you ever programmed before? When? In what language?
+  I have experience with the LAMP stack, although my Linux experience is minimal and rusty
+  I have a lot of experience with ASP.NET, both VB and C#
+  I have experience with Javascript and JQuery
+• Do you have any questions for me? If so, what are they?
+  Will there be any opportunity to work R into any of the assignments?
+• Did you register for a GitHub account and send your username to both Brent and Bill?
+  not yet
