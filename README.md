@@ -1,1 +1,1 @@
-# compsci135
+[Lab 1 : Workflow and the Toolchain](http://www.cs.williams.edu/~cs135/f16/labs/lab1/)
