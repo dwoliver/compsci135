@@ -6,7 +6,7 @@ Use TextBlog spelling correction on the sentence 'the raain in sspain stayss mai
 import textblob
 
 # our phrase to correct
-sentence = 'the raain in sspain stayss mainly on the plane'
+sentence = 'proffesor Dumbledore is my faverite'
 
 # create an instance of TextBlog using our sentence
 
